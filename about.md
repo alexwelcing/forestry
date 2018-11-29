@@ -1,9 +1,9 @@
 ---
-title: About
+title: Our Story
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/11/29/Flatiron 1.PNG"
-heading: About Insights
-sub_heading: Ora et Labora
+heading: The Insights Team
+sub_heading: and how it came to be.
 layout: landing-page
 textline: A multidisciplinary center of experts who are essential to healthcare research.
 publish_date: 2017-12-01 04:00:00 +0000

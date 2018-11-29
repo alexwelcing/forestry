@@ -1,18 +1,16 @@
 ---
-title: Kellie Brewer
+title: Alex Welcing
 date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
 - staff
-sub_heading: Professor
+sub_heading: Consultant, Manatt Health
 thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Alex Welcing is a consultant with Manatt Health, an interdisciplinary policy and business advisory practice of Manatt. With a background in publishing technology and digital strategy, Alex provides critical project management support as the portal administrator for Insights@ManattHealth, Manatt Health’s online client portal featuring premium healthcare content.
 
-Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
-
-Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Before joining Manatt, Alex developed business for a New York-based artificial intelligence technology startup, building new partnerships with publishers focused on digital innovation. Prior to relocating from Dallas, he consulted across industries on digital marketing strategy, as well as served as a digital sales executive for a marketing solutions company.

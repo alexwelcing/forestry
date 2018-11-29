@@ -5,9 +5,9 @@ role:
 - advisor
 - staff
 sub_heading: Consultant, Manatt Health
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
-email: ''
-linkedin: ''
+thumbnail: "/uploads/2018/11/29/Welcing_Alex_New-Upd-Bio-Template-730-x-730.jpg"
+email: alexwelcing@gmail.com
+linkedin: linkedin.com/in/alexwelcing
 layout: person
 
 ---

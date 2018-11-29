@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/11/29/Flatiron 3.PNG"
+banner_image: "/uploads/2018/11/29/Flatiron 1.PNG"
 heading: About Insights
 sub_heading: Ora et Labora
 layout: landing-page

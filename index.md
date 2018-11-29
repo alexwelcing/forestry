@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Innovative Insights
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Building Health Tools
 partners:
 - "/uploads/2018/11/29/firebase_logo.png"
 - "/uploads/2017/11/13/stem.png"
@@ -20,11 +20,11 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
+sub_heading: DevOps for Health Regulations
+textline: |-
+  Manatt Health Strategies
 
-  Ora et Labora
+  Prototype via Hugo
 hero_button:
   text: Learn more
   href: "/about"

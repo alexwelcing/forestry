@@ -9,6 +9,7 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/Research/ai-collection.md
 - _posts/talent.md
 - _posts/Research/pdf.md
 - _posts/Talent/collection-of-pdfs.md

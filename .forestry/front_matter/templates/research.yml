@@ -1,0 +1,9 @@
+---
+label: Research
+hide_body: false
+is_partial: true
+fields:
+- type: image_gallery
+  name: pdfs
+  label: PDFs
+  description: Any relevant documents you want to add.

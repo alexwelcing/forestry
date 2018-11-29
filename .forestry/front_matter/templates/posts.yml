@@ -9,5 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/Talent/2018-11-29-data-science.md
 - _posts/Research/2018-11-29-smart-reply-automated-response.md
-- _posts/Talent/data-science.md

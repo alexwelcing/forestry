@@ -13,7 +13,7 @@ textline: 'Every week, we will synthesize the latest developments in Washington,
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 ## Hours of Operation

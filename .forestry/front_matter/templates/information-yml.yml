@@ -48,6 +48,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _data/information.yml
-- _data/information.yml

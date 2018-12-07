@@ -9,7 +9,7 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/pushing-live-code-to-forestry.md
+- _posts/2018-12-07-pushing-live-code-to-forestry.md
 - _posts/Research/ai-collection.md
 - _posts/Research/pdf.md
 - _posts/Talent/collection-of-pdfs.md

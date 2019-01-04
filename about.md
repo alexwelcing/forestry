@@ -18,3 +18,4 @@ menu:
 
 ---
 Access compelling Manatt Health analyses of today’s most critical healthcare issues, detailed summaries of the latest regulatory developments, and key information on the emerging federal and state actions remapping our healthcare landscape. Insights@ManattHealth provides a “one-stop” searchable repository of the topics and trends transforming healthcare.
+

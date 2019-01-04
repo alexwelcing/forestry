@@ -10,10 +10,10 @@ fields:
   default: post
 pages:
 - _posts/2018-12-07-pushing-live-code-to-forestry.md
+- _posts/Research/2018-12-05-comparing-platform-performance.md
 - _posts/Research/ai-collection.md
 - _posts/Research/pdf.md
 - _posts/Talent/collection-of-pdfs.md
 - _posts/talent.md
 - _posts/Talent/2018-11-29-data-science.md
 - _posts/Research/2018-11-29-smart-reply-automated-response.md
-- _posts/Research/2018-12-05-comparing-platform-performance.md

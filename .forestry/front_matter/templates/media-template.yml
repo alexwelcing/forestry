@@ -1,0 +1,22 @@
+---
+label: Media Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: file_name
+  label: File Name
+- type: select
+  config:
+    source:
+      type: documents
+- type: datetime
+  name: date
+  label: Date
+  description: Date of the event
+- type: tag_list
+  name: tags
+  label: Tags
+- type: file
+  name: file_upload
+  label: File Upload
